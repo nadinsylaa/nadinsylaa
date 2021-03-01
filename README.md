@@ -1,4 +1,3 @@
-# RysepEchizen
 <!-- Your title -->
 ## Hi, I'm Asep! Welcome to My GitHub profile. 👋 Nice to meet you.
 ---
